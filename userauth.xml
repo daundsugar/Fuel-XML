@@ -12,8 +12,12 @@
     <username>Ravi</username>
     <password>12345</password>
   </loginid>
-   <loginid id = "111">
+   <loginid id = "1112">
     <username>Kale</username>
+    <password>2222</password>
+  </loginid>
+  <loginid id = "222">
+    <username>Ganesh</username>
     <password>2222</password>
   </loginid>
 </users>
