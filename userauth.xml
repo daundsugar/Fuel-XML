@@ -5,15 +5,15 @@
     <password>12345</password>
   </loginid>
   <loginid id = "456">
-    <username>manoj tilekar</username>
+    <username>manoj</username>
     <password>12345</password>
   </loginid>
   <loginid id = "555">
-    <username>Ravindra Bhongle</username>
+    <username>Ravi</username>
     <password>12345</password>
   </loginid>
    <loginid id = "111">
-    <username>Mr.Kale</username>
+    <username>Kale</username>
     <password>2222</password>
   </loginid>
 </users>
