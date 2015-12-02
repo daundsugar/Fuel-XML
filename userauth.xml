@@ -4,4 +4,12 @@
     <username>Manoj</username>
     <password>1234</password>
   </loginid>
+  <loginid id="2">
+    <username>kale</username>
+    <password>12345</password>
+  </loginid>
+  <loginid id="3">
+    <username>gore</username>
+    <password>55667</password>
+  </loginid>
 </users>
