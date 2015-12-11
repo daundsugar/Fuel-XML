@@ -12,4 +12,24 @@
     <username>Avchar</username>
     <password>adj1</password>
   </loginid>
+  <loginid id="4">
+    <username>ChandgudePradip</username>
+    <password>cpr1</password>
+  </loginid>
+  <loginid id="5">
+    <username>YedeSomnath</username>
+    <password>yss1</password>
+  </loginid>
+  <loginid id="6">
+    <username>BhapkarKiran</username>
+    <password>bkh1</password>
+  </loginid>
+  <loginid id="7">
+    <username>ChandgudeAbhijit</username>
+    <password>cab1</password>
+  </loginid>
+  <loginid id="8">
+    <username>KulYuvraj</username>
+    <password>kyd1</password>
+  </loginid>
 </users>
